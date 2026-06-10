@@ -43,8 +43,13 @@ I am currently completing the **IBM Data Analyst Professional Certificate**, dee
 
 ---
 
-### 📈 Power BI Dashboard *(In Progress)*
-> Operational performance dashboard built with Power BI, focused on business KPIs and trend analysis.
+### 📊 Amazon Product Performance Dashboard — Power BI
+> Interactive Power BI dashboard analyzing 1,351 Amazon products across pricing, discounts, ratings and category performance.
+
+- Built 6 interactive visuals including KPI cards, bar charts, scatter plot and top 10 table
+- Identified that Electronics leads in price while Office Products leads in ratings
+- Average discount across all products is 48% — key pricing insight
+- **Tools:** Power BI Desktop, DAX, Excel
 
 - **Tools:** Power BI, DAX, Data Modeling
 - *Coming soon — currently in development*
