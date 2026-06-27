@@ -74,67 +74,6 @@ and customer engagement metrics.
 - Uncovered pricing trends and category performance insights
 - **Tools:** Microsoft Excel, Pivot Tables, Data Cleaning, Dashboard Design
 
-### 🛒 Amazon Product Analysis Dashboard — Excel
-> Business intelligence dashboard analyzing product pricing, discount strategies, and customer engagement patterns.
-
-- Cleaned and transformed a raw Amazon product dataset (pricing, ratings, discount metrics)
-- Built interactive pivot tables, KPI cards, and slicers for dynamic data exploration
-- Uncovered pricing trends and category-level performance insights to support data-driven decisions
-- **Tools:** Microsoft Excel, Pivot Tables, Data Cleaning, Dashboard Design
-
----
-
-### 🗄️ SQL Data Exploration — Mini Projects
-> A collection of SQL queries demonstrating data retrieval, filtering, aggregation, and multi-table analysis.
-
-- Written and tested queries covering SELECT, WHERE, GROUP BY, JOINs, and subqueries
-- Applied to business scenarios including sales summaries and customer segmentation
-- **Tools:** SQL, Relational Databases
-
----
-
-### 📊 Amazon Product Performance Dashboard — Power BI
-> Interactive Power BI dashboard analyzing 1,351 Amazon products across pricing, discounts, ratings and category performance.
-
-- Built 6 interactive visuals including KPI cards, bar charts, scatter plot and top 10 table
-- Identified that Electronics leads in price while Office Products leads in ratings
-- Average discount across all products is 48% — key pricing insight
-- **Tools:** Power BI Desktop, DAX, Excel
-
-- **Tools:** Power BI, DAX, Data Modeling
-- *Coming soon — currently in development*
-
----
-
-## 🎓 Education & Certifications
-
-- 🏛️ **Bachelor of Commerce — Marketing** | Egerton University
-- 📜 **IBM Data Analyst Professional Certificate** *(In Progress)* | IBM / Coursera
-- 📜 **Fundamentals of SQL** | Coursera
-- 📜 **Marketing Analytics** | University of Virginia Darden School
-
----
-
-## 💼 Professional Background
-
-Before transitioning fully into data analytics, I spent 7+ years in **operations management and marketing** across the hospitality and retail sectors in Kenya:
-
-- 🍕 **Supervisor** — Pizza Maramoja, Kilifi *(2024 – Present)*
-- 🍽️ **Manager** — Standard Grill, Mtwapa *(2021 – 2024)*
-- 🏨 **Hotel & Resort Manager** — Lambada Holiday Resort, Mtwapa *(2020 – 2021)*
-- 🛒 **Assistant Marketing Manager** — Gilani's Supermarket, Nakuru *(2017 – 2019)*
-
-This background means I don't just analyze data in isolation — I understand **P&L statements, inventory systems, customer behavior, team operations, and business decision-making** from the ground up.
-
----
-
-## 📌 What I'm Working On
-
-- ✅ Completing IBM Data Analyst Professional Certificate
-- 📊 Building a hospitality/F&B operations analytics project in Power BI
-- 🐍 Learning Python for data analysis (Pandas, Matplotlib)
-- 🗂️ Expanding my SQL portfolio with real-world business scenarios
-
 ---
 
 ## 📫 Let's Connect
@@ -147,17 +86,6 @@ This background means I don't just analyze data in isolation — I understand **
 *📍 Based in Kenya | Open to Remote Opportunities*
 
 
-<!--
-**margaretwanjiku438-oss/margaretwanjiku438-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-
