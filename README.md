@@ -19,9 +19,19 @@ I am currently completing the **IBM Data Analyst Professional Certificate**, dee
 | **Databases** | SQL (Querying, Joins, Aggregations, Subqueries) |
 | **Productivity** | Google Workspace, Trello, Canva, MS Office Suite |
 | **Currently Learning** | Python (Pandas, NumPy), Jupyter Notebook |
+**Data Analysis & Visualization:** Microsoft Excel (Advanced), 
+Power BI, IBM Cognos Analytics, KPI Reporting, Dashboard Design
 
 ---
 ## 📊 Featured Projects
+> Bank Marketing Campaign Dashboard — IBM Cognos Analytics
+- Built interactive enterprise BI dashboard analyzing 
+  11,162 customer records across job type, age group, 
+  monthly trends and deposit conversion patterns
+- Implemented interactive filters for dynamic 
+  stakeholder data exploration
+- Tools: IBM Cognos Analytics, Data Visualization, 
+  Dashboard Design
 
 ### 🏦 Bank Marketing Campaign Analysis — SQL
 > SQL analysis of 11,162 customer records uncovering conversion 
