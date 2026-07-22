@@ -24,7 +24,16 @@ Power BI, IBM Cognos Analytics, KPI Reporting, Dashboard Design
 
 ---
 ## 📊 Featured Projects
-> Bank Marketing Campaign Dashboard — IBM Cognos Analytics
+### 👥 HR Analytics Project — SQL
+> Multi-table SQL analysis of 1,470 IBM HR employee records 
+using INNER JOINs, subqueries and window functions.
+
+- 10 business queries across 4 related tables
+- Sales highest attrition at 20.63% — R&D most stable at 13.84%
+- Company average salary 6,502 — top earners concentrated in R&D
+- **Tools:** SQL Server (SSMS), JOINs, Subqueries, Window Functions
+  
+### 🏦 Bank Marketing SQL Analysis — SQL
 - Built interactive enterprise BI dashboard analyzing 
   11,162 customer records across job type, age group, 
   monthly trends and deposit conversion patterns
