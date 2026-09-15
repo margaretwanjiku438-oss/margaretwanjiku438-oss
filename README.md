@@ -24,6 +24,14 @@ Power BI, IBM Cognos Analytics, KPI Reporting, Dashboard Design
 
 ---
 ## 📊 Featured Projects
+### 🛒 Retail Sales Analytics Dashboard — Power BI
+> Interactive Power BI dashboard analyzing 341,068 retail 
+sales records across suppliers, channels and product categories.
+
+- Built 5 DAX measures covering retail, warehouse and transfer channels
+- Top 10 suppliers identified — monthly trends and channel split visualized
+- Published to Power BI Service for live cloud access
+- **Tools:** Power BI Desktop, DAX, Power Query, Power BI Service
 ### 👥 HR Analytics Project — SQL
 > Multi-table SQL analysis of 1,470 IBM HR employee records 
 using INNER JOINs, subqueries and window functions.
