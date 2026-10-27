@@ -22,6 +22,28 @@ I am currently completing the **IBM Data Analyst Professional Certificate**, dee
 **Data Analysis & Visualization:** Microsoft Excel (Advanced), 
 Power BI, IBM Cognos Analytics, KPI Reporting, Dashboard Design
 
+## 🗂️ VA & Operations Portfolio
+
+Alongside my data analytics work, I bring **7+ years of hands-on experience** in Virtual Assistant, Operations Coordination, and Executive Support roles.
+
+| Repository | What's Inside |
+|---|---|
+| 🗂️ [va-operations-portfolio](https://github.com/margaretwanjiku438-oss/va-operations-portfolio) | SOP templates, Client Tracker, Travel Itinerary |
+| 🎯 [lead-generation-portfolio](https://github.com/margaretwanjiku438-oss/lead-generation-portfolio) | Verified B2B Lead Lists — US Founders & CEOs |
+
+### 💼 VA & Operations Skills
+| Category | Tools & Skills |
+|---|---|
+| **Executive Support** | Calendar Management, Inbox Management, Travel Coordination |
+| **Operations** | SOP Creation, KPI Reporting, Vendor Management |
+| **CRM & Data** | ZOHO CRM, Monday.com, Trello, Notion |
+| **Lead Generation** | Apollo.io, B2B Research, Email Verification |
+| **Communication** | Slack, Teams, Zoom, WhatsApp Business |
+
+> *I combine operational business experience with data analytics skills — 
+> giving clients and employers both the strategic context AND the 
+> technical execution.*
+
 ---
 ## 📊 Featured Projects
 ### 🛒 Retail Sales Analytics Dashboard — Power BI
