@@ -1,6 +1,5 @@
 # Hi, I'm Margaret Wanjiku 👋
-
-### Data Analyst | Business & Marketing Intelligence | Operations Analytics
+### Business Operations & Data Analytics | Virtual Assistant & Lead Generation | Excel • Power BI • SQL • Python
 
 ---
 
