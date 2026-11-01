@@ -6,7 +6,7 @@
 
 I am a detail-oriented data analyst with a foundation in **marketing, business operations, and hospitality management**. With over 7 years of leadership experience across retail, F&B, and resort environments, I bring a rare combination of **real-world business context and growing technical expertise** in data analysis.
 
-I am currently completing the **IBM Data Analyst Professional Certificate**, deepening my skills in SQL, Python, data visualization, and business intelligence — with the goal of translating operational data into clear, actionable insights.
+I have completed the **IBM Data Analyst Professional Certificate**, deepening my skills in SQL, Python, data visualization, and business intelligence — with the goal of translating operational data into clear, actionable insights.
 
 ---
 
